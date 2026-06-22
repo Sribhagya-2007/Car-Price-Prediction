@@ -24,4 +24,4 @@ This project predicts the selling price of a car using Machine Learning.
 The model predicts car prices based on vehicle features and historical data.
 
 ## Author
-Sri Bhagya
+SRI BHAGYA VARSHINI C
